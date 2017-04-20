@@ -1,0 +1,6 @@
+framework module Pods_MagmaExcerciseUITests {
+  umbrella header "Pods-MagmaExcerciseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
